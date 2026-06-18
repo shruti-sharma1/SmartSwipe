@@ -1,4 +1,4 @@
-## 📋 Week 2 Assignment
+## Week 2 Assignment
 
 ### DEADLINE : 22 June 2026, MONDAY - End Of Day
 
@@ -22,10 +22,10 @@ Take your time to experiment. Use visualizations to build intuition — a plot o
 
 ---
 
-### 📚 Resources
+### Resources
 
 **Supervised Learning & The ML Workflow**
-- 📹 [Machine Learning Fundamentals — StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI) — Start here. Best 15-minute intro to what ML actually is.
+- 📹[Machine Learning Fundamentals — StatQuest](https://www.youtube.com/watch?v=Gv9_4yMHFhI) — Start here. Best 15-minute intro to what ML actually is.
 - 📄 [What is Supervised Learning? — IBM](https://www.ibm.com/think/topics/supervised-learning) — Covers the core terminology: labels, features, training.
 - 📹 [Linear Regression — StatQuest](https://youtu.be/7ArmBVF2dCs) — Intuition first, math second.
 - 📄 [Everything About Linear Regression — Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/) — Solid reference article.
@@ -47,7 +47,7 @@ Take your time to experiment. Use visualizations to build intuition — a plot o
 
 ---
 
-### 🗂️ Task 1 — Dataset Exploration
+### Task 1 — Dataset Exploration
 
 You've been provided with `dataset.csv`. Before building any model, understand your data.
 
@@ -59,7 +59,7 @@ You've been provided with `dataset.csv`. Before building any model, understand y
 
 ---
 
-### 🗂️ Task 2 — Linear Regression from Scratch
+### Task 2 — Linear Regression from Scratch
 
 Implement linear regression **without using sklearn, PyTorch, or any ML library** — only NumPy.
 
@@ -73,7 +73,7 @@ Implement linear regression **without using sklearn, PyTorch, or any ML library*
 
 ---
 
-### 🗂️ Task 3 — Polynomial Regression & Overfitting
+### Task 3 — Polynomial Regression & Overfitting
 
 Extend your linear regression to handle non-linear relationships.
 
@@ -84,7 +84,7 @@ Extend your linear regression to handle non-linear relationships.
 
 ---
 
-### 🗂️ Task 4 — Logistic Regression + Evaluation
+### Task 4 — Logistic Regression + Evaluation
 
 Apply the logistic regression you studied in Week 1 to a classification task. You can use sklearn here.
 
@@ -96,7 +96,7 @@ Apply the logistic regression you studied in Week 1 to a classification task. Yo
 
 ---
 
-### 📦 Deliverables
+### Deliverables
 
 | File | Contents |
 |------|----------|
